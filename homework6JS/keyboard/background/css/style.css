@@ -1,0 +1,125 @@
+/* body{
+    background-image: url(../img/img2.jpg);
+    background-size: cover;
+} */
+
+.bg-color{
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.bg-img{
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.menu-color{
+    width: 450px;
+    height: 300px;
+    border: 1px black solid;
+    position: absolute;
+    margin-left: 30%;
+    margin-top: 100px;
+    display: none;
+}
+
+.red{
+    background-color: red;
+}
+
+.blue{
+    background-color: blue;
+    margin-left: 150px;
+}
+
+.gray{
+    background-color: gray;
+    margin-left: 300px;
+}
+
+.purple{
+    background-color: purple;
+    margin-top: 100px;
+}
+
+.yellow{
+    background-color: yellow;
+    margin-left: 150px;
+    margin-top: 100px;
+}
+
+.orange{
+    background-color: orange;
+    margin-left: 300px;
+    margin-top: 100px;
+}
+
+.green{
+    background-color: green;
+    margin-top: 200px;
+}
+
+.aqua{
+    background-color: aqua;
+    margin-top: 200px;
+    margin-left: 150px;
+}
+
+.black{
+    background-color: rgb(49, 30, 30);
+    margin-top: 200px;
+    margin-left: 300px;
+}
+
+.size{
+    width: 150px;
+    height: 100px;
+    position: absolute;
+}
+
+
+.menu-img{
+    width: 450px;
+    height: 300px;
+    border: 1px black solid;
+    position: absolute;
+    margin-left: 30%;
+    margin-top: 100px;
+    display: none;
+}
+
+.img_2{
+    margin-left: 150px;
+}
+
+.img_3{
+    margin-left: 300px;
+}
+
+.img_4{
+    margin-top: 100px;
+}
+
+.img_5{
+    margin-left: 150px;
+    margin-top: 100px;
+}
+
+.img_6{
+    margin-left: 300px;
+    margin-top: 100px;
+}
+
+.img_7{
+    margin-top: 200px;
+}
+
+.img_8{
+    margin-left: 150px;
+    margin-top: 200px;
+}
+
+.img_9{
+    margin-left: 300px;
+    margin-top: 200px;
+}

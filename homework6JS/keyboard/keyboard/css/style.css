@@ -1,0 +1,149 @@
+body{
+    background-color: rgb(192, 192, 192);
+    margin: 0;
+    padding: 0;
+}
+
+#textarea-box{
+    width: 700px;
+    height: 150px;
+    background-color: white;
+    border-radius: 5px;
+    border: white;
+    margin-top: 100px;
+    margin-left: 25%;
+    position: relative;
+}
+
+.container-key{
+    width: 704px;
+    height: 250px;
+    background: none;
+    border-radius: 5px;
+    border: white;
+    margin-top: 10px;
+    margin-left: 25%;
+    position: relative;
+}
+
+.container-1key{
+    background: none;
+    position: relative;
+    display: flex;
+    width: 704px;
+    height: 50px;
+}
+
+.button-1{
+    width: 43px;
+    height: 45px;
+    background-color: white;
+    border-radius: 5px;
+    margin-left: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.button-11{
+    margin-left: 0px;
+}
+.button-last{
+    width: 93px;
+}
+
+.container-2key{
+    background: none;
+    position: relative;
+    display: flex;
+    width: 704px;
+    height: 50px;
+}
+
+.button-2{
+    width: 43px;
+    height: 45px;
+    background-color: white;
+    border-radius: 5px;
+    margin-left: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.button2-first{
+    width: 93px;
+    margin-left: 0px;
+}
+
+.container-3key{
+    background: none;
+    position: relative;
+    display: flex;
+    width: 704px;
+    height: 50px;
+}
+
+.button-3{
+    width: 43px;
+    height: 45px;
+    background-color: white;
+    border-radius: 5px;
+    margin-left: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button3-first{
+    width: 103px;
+    margin-left: 0px;
+}
+
+.button3-last{
+    width: 80px;
+}
+
+.container-4key{
+    background: none;
+    position: relative;
+    display: flex;
+    width: 704px;
+    height: 50px;
+}
+
+.button-4{
+    width: 43px;
+    height: 45px;
+    background-color: white;
+    border-radius: 5px;
+    margin-left: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+
+.button-shift1{
+    margin-left: 0px;
+    width: 115px;
+}
+
+.button-shift2{
+    width: 115px;
+}
+
+.container-5key{
+    background: none;
+    position: relative;
+    display: flex;
+    width: 704px;
+    height: 50px;
+}
+
+.button-5{
+    width: 704px;
+    height: 45px;
+    background-color: white;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
