@@ -1,0 +1,71 @@
+body{
+    background-color: rgb(255, 241, 225);
+}
+.alertWindow{
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+    position: relative;
+}
+.alertText{
+    font-size: 36px;
+    position: absolute;
+}
+.styleContainer{
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+.containerFirstName{
+    margin-top: 20px;
+}
+.inputStyle{
+    width: 400px;
+    height: 50px;
+    border: 2px solid blue;
+    border-radius: 7px;
+    margin-top: 30px;
+    font-size: 24px;
+}
+.containerCheckBox{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    margin-right: 27%;
+    margin-top: 20px;
+}
+.checkboxStyle{
+    width: 20px;
+    height: 20px;
+}
+.checkboxTextStyle{
+    position: absolute;
+    margin-left: 230px;
+    margin-top: 4px;
+    font-size: 17px;
+}
+.buttonStyle{
+    width: 400px;
+    height: 40px;
+    /* background-color: rgba(0, 0, 255, 0.685);
+    border-radius: 6px;
+    border: 2px solid red;
+    color: rgb(0, 0, 0); */
+    font-size: 16px;
+}
+.styleContainerButton{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.inputStyle::placeholder{
+    transition: .5s;
+    color: #aaa;
+}
+
+.inputStyle:focus::placeholder{
+    font-size: 12px;
+    transform: translateY(-20px);
+}
